@@ -1,0 +1,14 @@
+body{
+background: url(img/bg.jpg) no-repeat;
+background-size: cover;
+}
+.title{
+    color: #fff;
+   text-align: center;
+   font-size: 50px;
+}
+.form{
+background: gray;
+width: 400px;
+height: 40px;
+}
